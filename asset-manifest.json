@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/lg/static/css/main.1b67ea60.chunk.css",
-    "main.js": "/lg/static/js/main.fcfc7975.chunk.js",
-    "main.js.map": "/lg/static/js/main.fcfc7975.chunk.js.map",
-    "runtime-main.js": "/lg/static/js/runtime-main.21ba0113.js",
-    "runtime-main.js.map": "/lg/static/js/runtime-main.21ba0113.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/lg/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.c890110d.chunk.js": "/lg/static/js/2.c890110d.chunk.js",
-    "static/js/2.c890110d.chunk.js.map": "/lg/static/js/2.c890110d.chunk.js.map",
-    "index.html": "/lg/index.html",
-    "precache-manifest.882470181fabe39b0067d6438121d001.js": "/lg/precache-manifest.882470181fabe39b0067d6438121d001.js",
-    "service-worker.js": "/lg/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/lg/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.1b67ea60.chunk.css.map": "/lg/static/css/main.1b67ea60.chunk.css.map",
-    "static/js/2.c890110d.chunk.js.LICENSE.txt": "/lg/static/js/2.c890110d.chunk.js.LICENSE.txt",
-    "static/media/ThinkPositive.jpg": "/lg/static/media/ThinkPositive.d9b3a432.jpg",
-    "static/media/index.css": "/lg/static/media/nature.25d69fc4.jpg"
+    "main.css": "/l/static/css/main.d739e2aa.chunk.css",
+    "main.js": "/l/static/js/main.be1b6c2e.chunk.js",
+    "main.js.map": "/l/static/js/main.be1b6c2e.chunk.js.map",
+    "runtime-main.js": "/l/static/js/runtime-main.da044f9c.js",
+    "runtime-main.js.map": "/l/static/js/runtime-main.da044f9c.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/l/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.c890110d.chunk.js": "/l/static/js/2.c890110d.chunk.js",
+    "static/js/2.c890110d.chunk.js.map": "/l/static/js/2.c890110d.chunk.js.map",
+    "index.html": "/l/index.html",
+    "precache-manifest.084041cfd3cc25e23affa44d24650630.js": "/l/precache-manifest.084041cfd3cc25e23affa44d24650630.js",
+    "service-worker.js": "/l/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/l/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.d739e2aa.chunk.css.map": "/l/static/css/main.d739e2aa.chunk.css.map",
+    "static/js/2.c890110d.chunk.js.LICENSE.txt": "/l/static/js/2.c890110d.chunk.js.LICENSE.txt",
+    "static/media/ThinkPositive.jpg": "/l/static/media/ThinkPositive.d9b3a432.jpg",
+    "static/media/index.css": "/l/static/media/nature.25d69fc4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.21ba0113.js",
+    "static/js/runtime-main.da044f9c.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.c890110d.chunk.js",
-    "static/css/main.1b67ea60.chunk.css",
-    "static/js/main.fcfc7975.chunk.js"
+    "static/css/main.d739e2aa.chunk.css",
+    "static/js/main.be1b6c2e.chunk.js"
   ]
 }
