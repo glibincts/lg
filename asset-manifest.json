@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/lg/static/css/main.1b67ea60.chunk.css",
+    "main.js": "/lg/static/js/main.e4f9f450.chunk.js",
+    "main.js.map": "/lg/static/js/main.e4f9f450.chunk.js.map",
+    "runtime-main.js": "/lg/static/js/runtime-main.21ba0113.js",
+    "runtime-main.js.map": "/lg/static/js/runtime-main.21ba0113.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/lg/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.6d1ea8b6.chunk.js": "/lg/static/js/2.6d1ea8b6.chunk.js",
+    "static/js/2.6d1ea8b6.chunk.js.map": "/lg/static/js/2.6d1ea8b6.chunk.js.map",
+    "index.html": "/lg/index.html",
+    "precache-manifest.eb6d26f686202387bace802199f05c31.js": "/lg/precache-manifest.eb6d26f686202387bace802199f05c31.js",
+    "service-worker.js": "/lg/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/lg/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.1b67ea60.chunk.css.map": "/lg/static/css/main.1b67ea60.chunk.css.map",
+    "static/js/2.6d1ea8b6.chunk.js.LICENSE.txt": "/lg/static/js/2.6d1ea8b6.chunk.js.LICENSE.txt",
+    "static/media/ThinkPositive.jpg": "/lg/static/media/ThinkPositive.d9b3a432.jpg",
+    "static/media/index.css": "/lg/static/media/nature.25d69fc4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21ba0113.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.6d1ea8b6.chunk.js",
+    "static/css/main.1b67ea60.chunk.css",
+    "static/js/main.e4f9f450.chunk.js"
+  ]
+}
